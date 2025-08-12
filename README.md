@@ -1,6 +1,6 @@
-# Documentación de InnPilot
+# Documentación InnPilot
 
-## Índice de notas
+## Índice
 
 - [[ADR/adr_auth]]
 - [[ADR/adr_locks]]
@@ -18,4 +18,4 @@
 - [[setup/install]]
 - [[ui/pantallas]]
 
-> Generado automáticamente el 2025-08-12 02:26 UTC
+> Generado: 2025-08-12 02:37 UTC
