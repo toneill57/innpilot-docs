@@ -11,10 +11,10 @@
             "id": "edd18e39ced9162c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -172,6 +172,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4a211f47237b552",
-  "lastOpenFiles": []
+  "active": "edd18e39ced9162c",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
+    "connect_docs.sh",
+    "api/auth.md",
+    "diagrams/sync_flow.mmd",
+    "diagrams/login_sequence.mmd",
+    "diagrams/er_model.mmd",
+    "ui/pantallas.md",
+    "ops/logs.md",
+    "ops/security.md",
+    "integrations/n8n.md",
+    "api/api.yaml",
+    "api/health.md",
+    "api/feeds.md",
+    "api/listings.md",
+    "db/db_schema.md",
+    "architecture/folder_structure.md",
+    "architecture",
+    "ADR/adr_locks.md",
+    "ADR/adr_auth.md",
+    "setup/backup_restore.md",
+    "setup/bootstrap.md",
+    "setup/install.md",
+    "setup",
+    "diagrams",
+    "integrations",
+    "ui"
+  ]
 }
